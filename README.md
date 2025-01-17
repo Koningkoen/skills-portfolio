@@ -9,9 +9,11 @@ SMART<br>
 # waar ga en sta ik voor
 brief aan de mentor<br>
 SMART<br>
+Droom-Vacature<br>
 
 # waar ben ik het beste op mijn plek
 brief aan de mentor<br>
+Droom-Vacature<br>
 
 # hoe bereik ik mijn doel
 brief aan de mentor <br>

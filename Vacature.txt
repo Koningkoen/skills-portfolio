@@ -1,0 +1,31 @@
+titel: Junior-Game-Developer.
+Werktijden: (32-40) uur in de week. 
+salaris: (netto) 3.300 to 4.000 .
+locatie: Venlo, Nederland.
+
+Over ons:
+Wij zijn een klein bedrijf in Venlo die nog beginner-game-developers zoeken om ons te helpen maar ook
+verder te helpen met ontwikkeling. Een hoop van onze junior-developers zijn later doorgestroomt naar 
+grotere bedrijven. Wij werken aan kleine games die niet heel gauw bekent worden maar wel genoeg geld
+oplevern om winst te maken.
+
+Wat ga jij doen voor ons:
+je krijgt in het begin een kleine rol zodat je niet te veel druk hebt als je net begint. De langer
+je bij ons werkt de grotere rollen je uiteindelijk krijgt. Deze rollen zijn vooral back-end developing
+en weinig front-end want dat gebeurt al genoeg.
+
+Wat bieden wij jou aan:
+-Na je eerste jaar bij ons mag je zelf bepalen hoe vaak je op kantoor werkt en hoevaak thuis. (minimaal 1 keer per week op kantoor)
+-Wij bieden in ruil voor 3 stickers op je auto tankpas zodat je kan tanken op bedrijfs kosten.
+-Wij hebben en leuk en gezellig team dat af en toe ook uitjes regelt.
+-Wij bieden ook stoelen en buruea's aan die goed voor jou zitten of staan.
+
+Wat wij van jou verwachten:
+-Een MBO of hoger diplonma.
+-Beginner skills in C# en unity (python mag ook maar liever C#)
+-Minimaal 4 dagen op werk in je eerste jaar.
+-Duidelijke inzet in je werk.
+
+Neem contact op met ons :
+Via mail : game@gmail.com 
+of bel : 06 23468986432
